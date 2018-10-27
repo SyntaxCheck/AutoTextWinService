@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTextWindowsService", "AutoTextWindowsService\AutoTextWindowsService.csproj", "{D553F2A2-3633-46E4-8A68-8A77E3840B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D553F2A2-3633-46E4-8A68-8A77E3840B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D553F2A2-3633-46E4-8A68-8A77E3840B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D553F2A2-3633-46E4-8A68-8A77E3840B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D553F2A2-3633-46E4-8A68-8A77E3840B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B53F44-3A6A-411A-967A-96A0C4B60456}
+	EndGlobalSection
+EndGlobal
